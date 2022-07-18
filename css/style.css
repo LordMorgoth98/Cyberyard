@@ -2364,9 +2364,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #FF4800;
-  border-color: #FF4800;
+  color: rgb(0, 0, 0);
+  background-color: #79D70F;
+  border-color: #79D70F;
 }
 
 .btn-primary:hover {
@@ -6094,7 +6094,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #FF4800 !important;
+  background-color: #79D70F !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9272,7 +9272,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #F2F2F4 !important;
+  color: #79D70F !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
